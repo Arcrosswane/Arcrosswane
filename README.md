@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 - 🔭 Currently working on building a full-stack Flask app  
 - 🌱 Currently learning Flask & SQLAlchemy  
-- 💬 Ask me about Flask, JavaScript, HTML, CSS, SQLAlchemy  
+- 💬 Ask me about Flask, SQL, JavaScript, HTML, CSS, SQLAlchemy  
 - 📫 Reach me at: **viratkaushal1212@gmail.com**  
 - ⚡ Fun fact: I started coding at 10 — I’m 13 now 😄
 
@@ -21,6 +21,7 @@
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=py)
 ![Flask](https://skillicons.dev/icons?i=flask)
+![SQLAlchemy](https://skillicons.dev/icons?i=sqlalchemy)
 
 ---
 
