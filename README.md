@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Virat Kaushal
 
-<!--
-**Arcrosswane/Arcrosswane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A 13-year-old student & aspiring full-stack developer 🚀
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=Arcrosswane&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+- 🔭 Currently working on building a full-stack Flask app  
+- 🌱 Currently learning Flask & SQLAlchemy  
+- 💬 Ask me about Flask, JavaScript, HTML, CSS, SQLAlchemy  
+- 📫 Reach me at: **viratkaushal1212@gmail.com**  
+- ⚡ Fun fact: I started coding at 10 — I’m 13 now 😄
+
+---
+
+## 🛠 Languages & Tools
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=py)
+![Flask](https://skillicons.dev/icons?i=flask)
+
+---
+
+## 🤝 Connect with Me
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Arcrosswane)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/arcrosswane)
